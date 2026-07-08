@@ -37,8 +37,8 @@ A simple and responsive Pomodoro Clock built with HTML, CSS, and JavaScript to h
 
 ## Screenshot
 
- screenshot of the project
+ ![screenshot of the project](image.png)
 
 ## Author
 
-Abdelrahman Mohamed
+Abdelrahman Mohamedg
